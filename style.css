@@ -1,0 +1,29 @@
+html, body {
+  padding: 0px;
+  padding-top: 25px;
+  margin: 0px;
+  background-image: url("header_background.jpg");
+  text-align: center;
+  color: #FFFFFF;
+  font-family: Arial, Helvetica, sans-serif;  
+}
+
+h1 {
+  font-size: 30px;
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+h2 {
+  font-size: 30px;
+  color: #000000;
+  background-color: #FFFFFF;
+}
+
+a {
+	color: #FFFFFF;
+}
+
+.logo {
+  width: 300px;
+}
